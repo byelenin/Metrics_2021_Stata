@@ -603,4 +603,4 @@ $$
   {\mid} t^{act} {\mid} > critical{\;}value
   $$
 
-    or if $$p−value < significance{\;}}level $$
+    or if $$p−value < significance{\;}level $$
